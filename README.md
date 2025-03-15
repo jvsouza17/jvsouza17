@@ -1,6 +1,6 @@
 # Olá, Eu sou João!
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, sempre em busca de criar soluções eficientes e escaláveis para desafios complexos. Com experiência em **Angular**, **Node.js**, **Express.js** e **MongoDB**, aliada a metodologias ágeis como **Scrum**, me destaco pela minha capacidade de transformar ideias em projetos funcionais e impactantes.
+Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, sempre em busca de criar soluções eficientes e escaláveis para desafios complexos. Com experiência em **Angular**, **Node.js**, **Express.js** e **MongoDB**, aliada a metodologias ágeis como **Scrum** e **Kanban**, me destaco pela minha capacidade de transformar ideias em projetos funcionais e impactantes.
 
 ## 🚀 Sobre mim
 
@@ -9,21 +9,15 @@ Sou comprometido, esforçado e com excelente comunicação. Ao longo da minha ca
 ## 🎯 Objetivo 
 Atuar como **Desenvolvedor Full-Stack**, aplicando minhas **hard-skills** e **soft-skills** ao mesmo tempo em que utilizo e aprimoro meu inglês em um ambiente colaborativo e desafiador.
 
-## 💼 Hard Skills
+## 💼 Principais stacks
 
-- **Tecnologias:** Angular, Node.js, MongoDB, TypeScript, JavaScript, HTML, CSS, Bootstrap.
-- **Desenvolvimento:** APIs RESTful, manipulação de dados em bancos NoSQL ou SQL.
-- **Testes:** Testes unitários com Jasmine e Karma.
-- **Versionamento:** Git.
-- **Integração:** Integração de front-end e back-end em aplicações modernas.
-
-## 🌱 Soft Skills
-
-- Comprometimento em resolver problemas complexos.
-- Colaboração eficaz em equipes ágeis (Scrum).
-- Adaptabilidade a novos desafios e tecnologias.
-- Comunicação clara e assertiva com a equipe e stakeholders.
-- Organização e gerenciamento de tempo para priorizar tarefas.
+-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📫 Como me encontrar
 
